@@ -9,7 +9,8 @@
 ## Containers
 
 * [Page 2](containers/page-2.md)
+* [Container Orchestration](containers/container-orchestration.md)
 
 ## Kubernetes
 
-* [Page 1](kubernetes/page-1.md)
+* [Kubernetes starter pack](kubernetes/kubernetes-starter-pack.md)
